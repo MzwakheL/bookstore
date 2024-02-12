@@ -1,5 +1,4 @@
-# bookstore
-
+# Python SQLite Bookstore Management System
 
 # Description
 The Python SQLite Bookstore Management System is a command-line application designed to manage a bookstore's inventory. It utilizes SQLite for database management, allowing users to perform various operations such as adding new books, updating existing books, deleting books, and searching for books based on title or author. The system provides an efficient and user-friendly interface for managing bookstore inventory data.
